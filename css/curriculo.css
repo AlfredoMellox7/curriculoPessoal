@@ -28,6 +28,7 @@ body{
 
 .logos{
     margin-left: 100px;
+    text-decoration: none;
 }
 
 #logoLinkedin{
@@ -180,6 +181,7 @@ main{
 
 .tituloHabilidades{
     color: #dddcdc;
+    padding-bottom: 10px;
     font-size: 45px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
 }
